@@ -1,0 +1,87 @@
+{
+  "userType": "jobseeker",
+  "conversation": [
+    {
+      "sender": "bot",
+      "text": "What role are you currently in, or what are you looking for next?"
+    },
+    {
+      "sender": "user",
+      "text": "sde"
+    },
+    {
+      "sender": "bot",
+      "text": "How many years of experience do you have?"
+    },
+    {
+      "sender": "user",
+      "text": "2"
+    },
+    {
+      "sender": "bot",
+      "text": "What's your current and expected salary?"
+    },
+    {
+      "sender": "user",
+      "text": "7 lakhs"
+    },
+    {
+      "sender": "bot",
+      "text": "Where are you based, and are you open to relocating?"
+    },
+    {
+      "sender": "user",
+      "text": "yes"
+    },
+    {
+      "sender": "bot",
+      "text": "Are you looking for remote, onsite, or hybrid work?"
+    },
+    {
+      "sender": "user",
+      "text": "remote"
+    },
+    {
+      "sender": "bot",
+      "text": "What’s your notice period or availability?"
+    },
+    {
+      "sender": "user",
+      "text": "immediate"
+    },
+    {
+      "sender": "bot",
+      "text": "Do you prefer a startup, MNC, or something else?"
+    },
+    {
+      "sender": "user",
+      "text": "anything"
+    },
+    {
+      "sender": "bot",
+      "text": "What's your working style — fast-paced, structured, or independent?"
+    },
+    {
+      "sender": "user",
+      "text": "fast pace"
+    },
+    {
+      "sender": "bot",
+      "text": "Would you consider freelance or short-term gigs?"
+    },
+    {
+      "sender": "user",
+      "text": "anything"
+    },
+    {
+      "sender": "bot",
+      "text": "What’s the minimum income you’d need to feel stable?"
+    },
+    {
+      "sender": "user",
+      "text": "7 lakhs"
+    }
+  ],
+  "aiReply": "Your preference for working in a fast-paced environment will suit a dynamic work environment where regular challenges are expected in various industries. Given your experience level, your current salary of 7 lakhs, and your preference for remote work, I will look for positions in startups and MNCs in various sectors. As you have mentioned your immediate availability and openness to relocating, I will see if there are overseas opportunities that match your profile. You are seeking stable income, and I will ensure that the positions considered meet your minimum income requirement. Even if you have any career-related questions or doubts, feel free to ask as I am here to help you navigate your career journey.\n\nOkay, I’ve got everything I need to begin searching. If something worthwhile shows up, I’ll reach out. And hey — if you’ve got career questions on your mind, I’m here for that too.",
+  "timestamp": "2025-06-21T11-55-57-510Z"
+}

@@ -1,0 +1,87 @@
+{
+  "userType": "recruiter",
+  "conversation": [
+    {
+      "sender": "bot",
+      "text": "What role are you currently in, or what are you looking for next?"
+    },
+    {
+      "sender": "user",
+      "text": "sde"
+    },
+    {
+      "sender": "bot",
+      "text": "How many years of experience do you need?"
+    },
+    {
+      "sender": "user",
+      "text": "2"
+    },
+    {
+      "sender": "bot",
+      "text": "What's the salary range you're offering?"
+    },
+    {
+      "sender": "user",
+      "text": "7 lakhs to 9 lakhs"
+    },
+    {
+      "sender": "bot",
+      "text": "Where is this role based?"
+    },
+    {
+      "sender": "user",
+      "text": "india"
+    },
+    {
+      "sender": "bot",
+      "text": "Is it remote, onsite, or hybrid?"
+    },
+    {
+      "sender": "user",
+      "text": "remote"
+    },
+    {
+      "sender": "bot",
+      "text": "How urgently do you want to fill it?"
+    },
+    {
+      "sender": "user",
+      "text": "immediate"
+    },
+    {
+      "sender": "bot",
+      "text": "Any reason for past attrition?"
+    },
+    {
+      "sender": "user",
+      "text": "no"
+    },
+    {
+      "sender": "bot",
+      "text": "What kind of personality fits best?"
+    },
+    {
+      "sender": "user",
+      "text": "good behaviour"
+    },
+    {
+      "sender": "bot",
+      "text": "Would you consider part-time or freelance?"
+    },
+    {
+      "sender": "user",
+      "text": "anything"
+    },
+    {
+      "sender": "bot",
+      "text": "Do you have a JD file or quick summary?"
+    },
+    {
+      "sender": "user",
+      "text": "About the Role: We are looking for a passionate and experienced Software Development Engineer II (SDE-2) to join our dynamic engineering team. As an SDE-2, you will be responsible for designing, developing, testing, and maintaining high-quality software solutions. You’ll work closely with cross-functional teams to build scalable systems, drive best practices, and mentor junior engineers.  Key Responsibilities: Design and implement scalable, maintainable, and performant backend or frontend systems.  Collaborate with Product Managers, Designers, and other Engineers to define, design, and deliver new features.  Take ownership of components or services, from design to deployment.  Participate in code reviews and uphold high standards of code quality and architecture.  Diagnose performance issues and fix bugs to ensure a smooth user experience.  Mentor junior developers and help them grow technically.  Write unit, integration, and end-to-end tests.  Contribute to engineering processes, tools, and standards."
+    }
+  ],
+  "aiReply": "To summarize, you're looking for an experienced Software Development Engineer II (SDE-2) to join the remote team on a full-time basis, with the salary range of 7 lakhs to 9 lakhs. The ideal candidate will have 2 years of experience and be capable of designing, developing, and maintaining high-quality software solutions. The urgency for filling the position is immediate due to the remote nature of the work. The candidate's attitude should reflect good behavior and a passion for their work. He/She should be comfortable taking ownership of components or services and willing to mentor junior developers. Thank you for the information provided. I've logged this internally. I'll surface suitable profiles soon — and flag urgent ones first.",
+  "timestamp": "2025-06-21T11-53-05-033Z"
+}
